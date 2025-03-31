@@ -29,5 +29,5 @@ $(SRC_DIR)/%.o: $(SRC_DIR)/%.cu
 
 # Clean up build files
 clean:
-	rm -rf src\*.o nbodysim.exe
+	rm -rf src/*.o nbodysim.exe
 
